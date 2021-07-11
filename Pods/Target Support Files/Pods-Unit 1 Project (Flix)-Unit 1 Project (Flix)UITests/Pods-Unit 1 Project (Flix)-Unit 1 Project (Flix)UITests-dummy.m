@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Unit_1_Project__Flix__Unit_1_Project__Flix_UITests : NSObject
+@end
+@implementation PodsDummy_Pods_Unit_1_Project__Flix__Unit_1_Project__Flix_UITests
+@end
